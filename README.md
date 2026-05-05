@@ -46,3 +46,4 @@ This project reads an Excel file containing student scores and generates histogr
 The code helps visualize how student scores are distributed across different patterns using histograms with smooth density curves.
 
 For the video recording please check the following link: https://drive.google.com/file/d/1wa7plsb_WxVB4VntJS1rWMB80PW9PzE3/view?usp=sharing
+Re-recorded video: https://drive.google.com/file/d/1NKB30dAXzed17Yh4167-Zz92KAj80Ttb/view?usp=drive_link
